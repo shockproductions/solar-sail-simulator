@@ -20,7 +20,7 @@ clear why the answer is **not** `pressure × area / mass`.
 
 ### Option A — use the deployed version
 
-**https://nic4wtf.github.io/solar-sail-simulator/**
+**https://shockproductions.github.io/solar-sail-simulator/**
 
 The app loads with a working 500 km LEO simulation already running; press
 **Run** to re-propagate after any change. Nothing to install, and no data
@@ -86,7 +86,7 @@ width, so the chrome gets thinner and the bottom bar goes horizontal.
 
 ## Deploying to GitHub Pages
 
-Already live at **https://nic4wtf.github.io/solar-sail-simulator/**, published
+Already live at **https://shockproductions.github.io/solar-sail-simulator/**, published
 by `.github/workflows/deploy.yml` on every push to `main`. The workflow
 typechecks, runs all 299 tests, builds, and only then publishes — so a broken
 commit cannot reach the live site.
